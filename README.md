@@ -8,6 +8,7 @@ Pagrindinė schema:
 
 Aplikacija paleidžiama: `python main.py`
 
+Dataset - https://www.kaggle.com/datasets/trevordu/reddit-short-stories?resource=download
 ---
 
 ## Reikalavimai
