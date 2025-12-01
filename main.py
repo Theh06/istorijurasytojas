@@ -41,7 +41,7 @@ class StoryApp(ctk.CTk):
         tabview = ctk.CTkTabview(self)
         tabview.pack(fill="both", expand=True, padx=10, pady=10)
 
-        tab_corpus = tabview.add("1. Corpus")
+        tab_corpus = tabview.add("1. Base")
         tab_ngrams = tabview.add("2. N-gram models")
         tab_llm = tabview.add("3. N-gram + LLM")
 
