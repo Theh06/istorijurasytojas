@@ -7,6 +7,7 @@ Pagrindinė schema:
 > **Įvestis → N-gram juodraštis → LLM patobulinimas → Galutinis tęsinys**
 
 Aplikacija paleidžiama: `python main.py`
+
 Dataset - `https://www.kaggle.com/datasets/trevordu/reddit-short-stories?resource=download`
 
 ---
